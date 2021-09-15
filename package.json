@@ -1,0 +1,18 @@
+{
+  "name": "facturacion-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.6",
+    "pem": "^1.14.4",
+    "soap": "^0.42.0",
+    "xml-crypto": "^2.1.3"
+  }
+}
